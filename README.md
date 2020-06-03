@@ -1,2 +1,2 @@
-# Coursera Capstone
-This repo will be mainly used for the capstone project for IBM Applied Data Science Capstone course on Coursera. 
+# The-Battle-of-Neighborhoods
+Performing clustering operation on the location data of New York and Toronto in order to group together similar neighborhoods
